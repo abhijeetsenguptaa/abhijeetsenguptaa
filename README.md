@@ -22,7 +22,7 @@
 <br />
  🌍 I’m based in Gaya,Bihar.
 <br/>
-⚡ Visit my <a href="https://abhijeetsenguptaa.github.io/" target="_blank" rel="noreferrer noopener">Portfolio</a> and <a href="https://drive.google.com/file/d/14Qq1p4eUGvDNjziaUtVvT7HynPCK1jtx/view?usp=sharing" target="_blank" rel="noreferrer noopener">Resume</a> for more details.
+⚡ Visit my <a href="https://abhijeetsenguptaa.github.io/" target="_blank" rel="noreferrer noopener">Portfolio</a> and <a href="" target="_blank" rel="noreferrer noopener">Resume</a> for more details.
 <div> ✉️ You can contact me at  <a href="mailto:abhi.bunnny@gmail.com" target="_blank" rel="noreferrer noopener">abhi.bunnny@gmail.com</a></div>
 
 
