@@ -29,8 +29,8 @@
 <h3 align="left">🌐 Connect with me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></h3>
 
 <p align="left">
-<a href="https://twitter.com/abhijeetsenguptaa" target="_blank" rel="noreferrer noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhijeetsenguptaa" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abhijeetsenguptaa/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhijeetsenguptaa/" height="30" width="40" /></a>
+<a href="https://twitter.com/abhijeetsengup" target="_blank" rel="noreferrer noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhijeetsenguptaa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhijeet-sen-gupta-7625a4215/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhijeetsenguptaa/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abhijeetsenguptaa" target="_blank" rel="noreferrer noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhijeetsenguptaa" height="30" width="40" /></a>
 <a href="https://instagram.com/_abhijeetsengupta_" target="_blank" rel="noreferrer noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhijeetsenguptaa" height="30" width="40" /></a>
 </p>
