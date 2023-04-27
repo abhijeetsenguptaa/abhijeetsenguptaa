@@ -23,7 +23,7 @@
  🌍 I’m based in Gaya,Bihar.
 <br/>
 ⚡ Visit my <a href="https://abhijeetsenguptaa.github.io/" target="_blank" rel="noreferrer noopener">Portfolio</a> and <a href="https://drive.google.com/file/d/1gySRTH-dT3aiAifvoFfnkFHpaeiZbiq-/view?usp=share_link" target="_blank" rel="noreferrer noopener">Resume</a> for more details.
-<div> ✉️ You can contact me at  <a href="mailto:abhi.bunnny@gmail.com" target="_blank" rel="noreferrer noopener">abhi.bunnny@gmail.com</a></div>
+<div> ✉️ You can contact me at  <a href="mailto:abhi.bunnny@gmail.com" target="_blank" rel="noreferrer noopener">senguptabhijeet@gmail.com</a></div>
 
 
 <h3 align="left">🌐 Connect with me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></h3>
